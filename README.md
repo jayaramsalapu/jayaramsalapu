@@ -1,15 +1,11 @@
 #  Hi, I'm Jayaram!
 ### Software Developer | Full Stack & Backend Dev
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1000&color=00FF87&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile" alt="Typing SVG" />
-</div>
-
 ---
 
-### 💫 About Me
-I am an aspiring Software Engineer passionate about building practical and impactful applications that solve real-world problems. I enjoy transforming ideas into meaningful digital experiences and continuously expanding my knowledge through hands-on learning and project development.
-
+**💫 About Me**
+- Aspiring Software Engineer passionate about building practical and impactful applications.
+- I enjoy transforming ideas into scalable software solutions and continuously improving my development skills.
+- Goal: Build products that solve real-world problems and create meaningful user experiences.
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -27,7 +23,7 @@ I am an aspiring Software Engineer passionate about building practical and impac
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://img.shields.io/badge/Node.js-339933)
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
 
 #### 🔧 Tools & DevOps
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://img.shields.io/badge/Git-F05032)
