@@ -60,7 +60,7 @@ An AI-powered platform that helps users analyze resumes, compare them with job d
 
 <p>
   <a href="https://resufit-w511.onrender.com">
-    <img src="https://img.shields.io/badge/Demo-4285F4?style=for-the-badge&logo=render&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Live-4285F4?style=for-the-badge&logo=render&logoColor=white"/>
   </a>
 
   <a href="https://github.com/jayaramsalapu/ResuFit">
@@ -74,7 +74,6 @@ An AI-powered platform that helps users analyze resumes, compare them with job d
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayaram-salapu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF87?style=for-the-badge&logo=codepen&logoColor=white)](https://alexmercer.dev)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayaram.salapu28@gmmai.com)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayaram.salapu28@gmail.com)
 
 </div>
